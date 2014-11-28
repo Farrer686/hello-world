@@ -1,4 +1,4 @@
 hello-world
 ===========
-Test text
+Test text 2
 Just another repository.
